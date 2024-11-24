@@ -12,10 +12,6 @@ I am an enthusiastic **Software Quality Assurance Engineer** with a passion for 
 - **Learning Journey**  
   I have completed **Manual Testing** and **Cypress Automation** and am currently learning **Selenium with Java** to expand my automation skillset.  
 
-- **Future Goals**  
-  - Advance expertise in **Selenium** and explore frameworks like **TestNG** and **JUnit**.  
-  - Deepen knowledge of **API testing automation**.  
-  - Contribute to impactful projects and enhance testing skills further.  
 
 ---
 
@@ -59,10 +55,30 @@ Testing isn’t just about finding bugs; it’s about ensuring that the user’s
 
 ## 📂 Featured Projects  
 
-- **Adidas Clone Manual Testing Project**  
-  Comprehensive manual testing including exploratory testing, test cases, RTMs, and bug reports.  
+### **[Masio Clone Website - Manual Testing](https://github.com/RashmiNinawe13/Manual-Testing-Project-Masio-clone-Website-)**
 
-- **E-commerce Automation with Cypress**  
-  Developed a complete automation testing framework using **Page Object Model (POM)** and **Cypress** to simulate real-world scenarios.  
+This project focused on **Manual Testing** of the **Masio Clone Website**, covering essential functionalities such as **user login**, **product search**, **cart management**, and **checkout process**. The primary goal was to ensure functionality and **UI responsiveness** across multiple devices. Detailed test scenarios, cases, and bug reports were prepared to enhance the user experience.
 
+## 🚀 Key Highlights:
+- Verified core functionalities through **manual testing**.
+- Created test artifacts such as **test plans**, **RTMs**, and **bug reports**.
+- Focused on cross-device compatibility and smooth user experience.
+
+
+### **[W3Schools Website - Automation Testing with Cypress](https://github.com/RashmiNinawe13/W3School-Web-Automation-Testing-With-Cypress)**
+
+This project involved **Automation Testing** of the **W3Schools Website** using **Cypress**. Key areas tested included **page responsiveness**, **element visibility**, and **navigation functionality**. The project aimed to ensure seamless performance and usability across various devices and browsers.
+
+## 🚀 Key Highlights:
+- Automated test scripts to verify **visibility** and **navigation flows**.
+- Focused on **UI responsiveness** and **cross-browser compatibility**.
+- Improved overall performance by identifying and resolving bugs.
+
+---
+
+- **Future Goals**  
+  - Advance expertise in **Selenium** and explore frameworks like **TestNG** and **JUnit**.  
+  - Deepen knowledge of **API testing automation**.  
+  - Contribute to impactful projects and enhance testing skills further.
+    
 ---
