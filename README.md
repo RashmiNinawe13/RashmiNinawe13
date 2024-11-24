@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Rashmi Ninawe]  
+# 👋 Hi, I'm Rashmi Ninawe 
 
 ---
 
