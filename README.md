@@ -53,7 +53,7 @@ Testing isn’t just about finding bugs; it’s about ensuring that the user’s
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Projects  
 
 ### **[Masio Clone Website - Manual Testing](https://github.com/RashmiNinawe13/Manual-Testing-Project-Masio-clone-Website-)**
 
