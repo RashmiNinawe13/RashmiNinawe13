@@ -57,7 +57,7 @@ Testing isn’t just about finding bugs; it’s about ensuring that the user’s
 
 ### **[Masio Clone Website - Manual Testing](https://github.com/RashmiNinawe13/Manual-Testing-Project-Masio-clone-Website-)**
 
-This project focused on **Manual Testing** of the **Masio Clone Website**, covering essential functionalities such as **user login**, **product search**, **cart management**, and **checkout process**. The primary goal was to ensure functionality and **UI responsiveness** across multiple devices. Detailed test scenarios, cases, and bug reports were prepared to enhance the user experience.
+Masio project focused on **Manual Testing** of the **Masio Clone Website**, covering essential functionalities such as **user login**, **product search**, **cart management**, and **checkout process**. The primary goal was to ensure functionality and **UI responsiveness** across multiple devices. Detailed test scenarios, cases, and bug reports were prepared to enhance the user experience.
 
 ## 🚀 Key Highlights:
 - Verified core functionalities through **manual testing**.
@@ -67,7 +67,7 @@ This project focused on **Manual Testing** of the **Masio Clone Website**, cover
 
 ### **[W3Schools Website - Automation Testing with Cypress](https://github.com/RashmiNinawe13/W3School-Web-Automation-Testing-With-Cypress)**
 
-This project involved **Automation Testing** of the **W3Schools Website** using **Cypress**. Key areas tested included **page responsiveness**, **element visibility**, and **navigation functionality**. The project aimed to ensure seamless performance and usability across various devices and browsers.
+W3Schools project involved **Automation Testing** of the **W3Schools Website** using **Cypress**. Key areas tested included **page responsiveness**, **element visibility**, and **navigation functionality**. The project aimed to ensure seamless performance and usability across various devices and browsers.
 
 ## 🚀 Key Highlights:
 - Automated test scripts to verify **visibility** and **navigation flows**.
