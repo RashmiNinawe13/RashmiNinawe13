@@ -3,7 +3,7 @@
 ---
 
 Welcome to my GitHub profile! 🚀  
-I am an enthusiastic **Software Quality Assurance Engineer** with a passion for delivering high-quality software solutions. I specialize in **manual testing** and **automation testing** and enjoy leveraging tools and frameworks to ensure robust and efficient testing processes.  
+Enthusiastic **Software Quality Assurance Engineer** with a passion for delivering high-quality software solutions. I specialize in **manual testing** and **automation testing** and enjoy leveraging tools and frameworks to ensure robust and efficient testing processes.  
 
 ---
 
